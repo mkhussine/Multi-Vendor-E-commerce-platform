@@ -1,1 +1,1 @@
-# Multi-Vendor-E-commerce-platform
+# Multi Vendor E-commerce platform
